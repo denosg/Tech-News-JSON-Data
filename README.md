@@ -13,4 +13,6 @@ What I learned during development:
 - Working with JSON data to parse API responses and handle errors in case of invalid or incomplete responses
 - Downloading data from a website using HttpURLConnection to provide real-time updates to the app
 - Implementing an SQLite database to store data locally on the device, providing a seamless experience for users even if offline or experiencing connectivity issues
-- These skills are essential for a Java Android developer job and have equipped me with the ability to deliver high-quality applications that meet the needs of both users and stakeholders.
+
+These skills are essential for a Java Android developer job and have equipped me with the ability to deliver high-quality applications that meet the needs of both users and stakeholders.
+![image1](https://user-images.githubusercontent.com/81863134/226100831-97f9dd59-58f7-4808-8de0-29971ca69b1d.png)
